@@ -1,3 +1,3 @@
 # Mandelbrot
 
-mqndelbrot set implement in javascript with webgl.
+mandelbrot set implemented in javascript with webgl.
